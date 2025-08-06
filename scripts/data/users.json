@@ -1,0 +1,122 @@
+[
+  {
+    "email": "root@mail.com",
+    "emailVerified": true,
+    "firstname": "Root",
+    "lastname": "Admin",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "USA",
+    "imageUrl": "https://randomuser.me/api/portraits/lego/0.jpg",
+    "roles": ["user", "admin", "employer"]
+  },
+  {
+    "email": "john.doe@example.com",
+    "emailVerified": true,
+    "firstname": "John",
+    "lastname": "Doe",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "USA",
+    "imageUrl": "https://randomuser.me/api/portraits/men/21.jpg",
+    "roles": ["user", "seeker"]
+  },
+  {
+    "email": "sarah.connor@example.com",
+    "emailVerified": true,
+    "firstname": "Sarah",
+    "lastname": "Connor",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "UK",
+    "imageUrl": "https://randomuser.me/api/portraits/women/65.jpg",
+    "roles": ["user", "employer"]
+  },
+  {
+    "email": "employer@techcorp.com",
+    "emailVerified": true,
+    "firstname": "Alice",
+    "lastname": "Smith",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "Canada",
+    "imageUrl": "https://randomuser.me/api/portraits/men/71.jpg",
+    "roles": ["user", "employer"]
+  },
+  {
+    "email": "michael.brown@example.com",
+    "emailVerified": true,
+    "firstname": "Michael",
+    "lastname": "Brown",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "Nigeria",
+    "imageUrl": "https://randomuser.me/api/portraits/men/59.jpg",
+    "roles": ["user", "seeker"]
+  },
+  {
+    "email": "lucy.lee@example.com",
+    "emailVerified": true,
+    "firstname": "Lucy",
+    "lastname": "Lee",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "South Africa",
+    "imageUrl": "https://randomuser.me/api/portraits/women/16.jpg",
+    "roles": ["user", "employer"]
+  },
+  {
+    "email": "david.kim@example.com",
+    "emailVerified": true,
+    "firstname": "David",
+    "lastname": "Kim",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "Kenya",
+    "imageUrl": "https://randomuser.me/api/portraits/men/20.jpg",
+    "roles": ["user", "seeker"]
+  },
+  {
+    "email": "fatima.ali@example.com",
+    "emailVerified": true,
+    "firstname": "Fatima",
+    "lastname": "Ali",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "Egypt",
+    "imageUrl": "https://randomuser.me/api/portraits/women/0.jpg",
+    "roles": ["user", "employer"]
+  },
+  {
+    "email": "paul.ngugi@example.com",
+    "emailVerified": true,
+    "firstname": "Paul",
+    "lastname": "Ngugi",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "Kenya",
+    "imageUrl": "https://randomuser.me/api/portraits/men/44.jpg",
+    "roles": ["user", "seeker"]
+  },
+  {
+    "email": "maria.garcia@example.com",
+    "emailVerified": true,
+    "firstname": "Maria",
+    "lastname": "Garcia",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "Spain",
+    "imageUrl": "https://randomuser.me/api/portraits/women/81.jpg",
+    "roles": ["user", "employer"]
+  },
+  {
+    "email": "thabo.mokoena@example.com",
+    "emailVerified": true,
+    "firstname": "Thabo",
+    "lastname": "Mokoena",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "South Africa",
+    "imageUrl": "https://randomuser.me/api/portraits/men/63.jpg",
+    "roles": ["user", "seeker"]
+  },
+  {
+    "email": "amina.yusuf@example.com",
+    "emailVerified": true,
+    "firstname": "Amina",
+    "lastname": "Yusuf",
+    "passwordHash": "$2b$10$uXmBjJTqxCMl96Fel7Pdg.TgisVnmQkmL59RaiM.FPBMpxMsWNvLC",
+    "country": "Nigeria",
+    "imageUrl": "https://randomuser.me/api/portraits/women/89.jpg",
+    "roles": ["user", "employer"]
+  }
+]

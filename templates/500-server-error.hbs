@@ -1,0 +1,205 @@
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <title>🚨 Internal Server Error:::{{appName}}</title>
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f7fa;
+        color: #333333;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
+      td {
+        padding: 0;
+      }
+      .container {
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+      }
+      .header {
+        background-color: #dc3545; /* Red for error */
+        color: #ffffff;
+        padding: 25px 30px;
+        text-align: center;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+      }
+      .header h1 {
+        margin: 0;
+        font-size: 28px;
+        font-weight: 700;
+      }
+      .content {
+        padding: 30px;
+      }
+      .section-title {
+        font-size: 18px;
+        font-weight: 600;
+        color: #212529;
+        margin-bottom: 15px;
+        border-bottom: 1px solid #eeeeee;
+        padding-bottom: 10px;
+      }
+      .info-row {
+        margin-bottom: 10px;
+        line-height: 1.6;
+        word-break: break-all;
+      }
+      .info-row strong {
+        color: #555555;
+        display: inline-block;
+        min-width: 120px; /* Align labels */
+      }
+      .code-block {
+        background-color: #f8f9fa;
+        border: 1px solid #e9ecef;
+        border-radius: 5px;
+        padding: 15px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        overflow-x: auto; /* For long lines */
+        font-size: 13px;
+      }
+      .code-block pre {
+        margin: 0;
+        font-family:
+          'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier,
+          monospace;
+        white-space: pre-wrap; /* Wrap long lines */
+        word-wrap: break-word;
+      }
+      .error-message {
+        font-weight: 600;
+        color: #dc3545; /* Red for emphasis */
+        font-size: 16px;
+        margin-bottom: 20px;
+      }
+      .footer {
+        background-color: #e9ecef;
+        padding: 20px 30px;
+        text-align: center;
+        font-size: 12px;
+        color: #6c757d;
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+      }
+      .footer p {
+        margin: 0;
+      }
+      /* Responsive adjustments */
+      @media screen and (max-width: 620px) {
+        .container {
+          border-radius: 0;
+          box-shadow: none;
+        }
+        .header,
+        .content,
+        .footer {
+          padding: 20px;
+        }
+        .header h1 {
+          font-size: 24px;
+        }
+        .info-row strong {
+          min-width: 90px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <table
+      role='presentation'
+      cellspacing='0'
+      cellpadding='0'
+      border='0'
+      width='100%'
+    >
+      <tr>
+        <td align='center' style='padding: 20px;'>
+          <table
+            role='presentation'
+            cellspacing='0'
+            cellpadding='0'
+            border='0'
+            class='container'
+          >
+            <!-- Header -->
+            <tr>
+              <td class='header'>
+                <h1>Internal Server Error!</h1>
+              </td>
+            </tr>
+            <!-- Content -->
+            <tr>
+              <td class='content'>
+                <p style='margin-top: 0; margin-bottom: 20px; font-size: 16px;'>
+                  An unexpected error occurred in your NestJS application (<strong
+                  >{{appName}}</strong>). Please investigate the details below.
+                </p>
+
+                <div class='section-title'>Error Details</div>
+                <div class='info-row error-message'>
+                  <strong>Message:</strong>
+                  {{errorMessage}}
+                </div>
+                <div class='info-row'>
+                  <strong>App Name:</strong>
+                  {{appName}}
+                  [{{appStaging}}]
+                </div>
+                <div class='info-row'>
+                  <strong>Path:</strong>
+                  <span
+                    style="font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; color: #dc3545"
+                  ><strong>{{method}}</strong></span>
+                  <span
+                    style="font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;"
+                  >{{requestUrl}}
+                  </span>
+                </div>
+                {{#if payloadData}}
+                  <div class='section-title' style='margin-top: 30px;'>Payload
+                    Data</div>
+                  <div class='code-block'>
+                    <pre><code>{{payloadData}}</code></pre>
+                  </div>
+                {{/if}}
+
+                <div class='section-title' style='margin-top: 30px;'>Error Stack
+                  Trace</div>
+                <div
+                  class='code-block'
+                  style='background-color: #fff3f5; border-color: #f7d7da;'
+                >
+                  <code style='color: #6a1a21; word-break: break-all;'>
+                    <pre>{{errorStack}}</pre>
+                  </code>
+                </div>
+              </td>
+            </tr>
+            <!-- Footer -->
+            <tr>
+              <td class='footer'>
+                <p>&copy; {{appName}} Application. All rights reserved.</p>
+                <p>This is an automated notification. Please do not reply.</p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

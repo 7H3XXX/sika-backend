@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Bitcoin",
+    "about": "Bitcoin (abbreviation: BTC; sign: \u20bf) is the first decentralized cryptocurrency. Based on a free-market ideology, bitcoin was invented in 2008 when an unknown entity published a white paper under the pseudonym of Satoshi Nakamoto. Use of bitcoin as a currency began in 2009, with the release of its open-source implementation. In 2021, El Salvador adopted it as legal tender. It is mostly seen as an investment and has been described by some scholars as an economic bubble. As bitcoin is pseudonymous, its use by criminals has attracted the attention of regulators, leading to its ban by several countries as of 2021. Bitcoin works through the collaboration of computers, each of which acts as a node in the peer-to-peer bitcoin network. Each node maintains an independent copy of a public distributed ledger of transactions, called a blockchain, without central oversight. Transactions are validated through the use of cryptography, preventing one person from spending another person's bitcoin, as long as the owner of the bitcoin keeps certain sensitive data secret. Consensus between nodes about the content of the blockchain is achieved using a computationally intensive process based on proof of work, called mining, which is performed by purpose-built computers. Mining consumes large quantities of electricity and has been criticized for its environmental impact. Before bitcoin, several digital cash technologies were released, starting with David Chaum's ecash in the 1980s. The idea that solutions to computational puzzles could have some value was first proposed by cryptographers Cynthia Dwork and Moni Naor in 1992. The concept was independently rediscovered by Adam Back who developed Hashcash, a proof-of-work scheme for spam control in 1997. The first proposals for distributed digital scarcity-based cryptocurrencies came from cypherpunks Wei Dai (b-money) and Nick Szabo (bit gold) in 1998. In 2004, Hal Finney developed the first currency based on reusable proof of work. These various attempts were not successful: Chaum's concept required centralized control and no banks wanted to sign on, Hashcash had no protection against double-spending, while b-money and bit gold were not resistant to Sybil attacks. The domain name bitcoin.org was registered on 18 August 2008. On 31 October 2008, a link to a white paper authored by Satoshi Nakamoto titled Bitcoin: A Peer-to-Peer Electronic Cash System was posted to a cryptography mailing list. Nakamoto's identity remains unknown. According to computer scientist Arvind Narayanan, all individual components of bitcoin originated in earlier academic literature. Nakamoto's innovation was their complex interplay resulting in the first decentralized, Sybil resistant, Byzantine fault tolerant digital cash system, that would eventually be referred to as the first blockchain. Nakamoto's paper was not peer reviewed and was initially ignored by academics, who argued that it could not work.",
+    "website": "https://bitcoin.org/en/jobs-at-bitcoin",
+    "imageUrl": "https://play.min.io/ajb-bucket/bitcoin-logo-svgrepo-com.svg-eWMlc",
+    "country": "United States",
+    "createdByEmail": "root@mail.com"
+  },
+  {
+    "name": "BMW",
+    "about": "Bayerische Motoren Werke AG, commonly known as BMW, is a German multinational manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany. Founded on March 7, 1916, by Karl Rapp, Gustav Otto, Camillo Castiglioni, and Franz Josef Popp, BMW has evolved from an aircraft engine manufacturer into one of the world's leading producers of premium automobiles and motorcycles. The company is a key player in the global automotive industry, known for its engineering excellence, innovative design, and high-performance vehicles. BMW's brand portfolio also includes Mini and Rolls-Royce Motor Cars, further solidifying its position in the luxury segment. Beyond vehicle production, BMW is actively involved in mobility services, sustainable manufacturing, and the development of electric and autonomous driving technologies, reflecting its commitment to shaping the future of individual mobility. Its operations span across numerous countries, with manufacturing facilities and sales networks worldwide, employing a vast workforce dedicated to upholding the brand's reputation for quality and driving pleasure. The company's focus on research and development ensures continuous innovation in areas like efficient dynamics, connectivity, and digital services, offering a comprehensive and integrated mobility experience to its customers globally. BMW's long history is marked by continuous adaptation and innovation, driven by a philosophy of precision, performance, and passion for driving.",
+    "website": "https://www.bmwgroup.jobs/en/job-search",
+    "imageUrl": "https://play.min.io/ajb-bucket/bmw-m-series-1-logo-svgrepo-com.svg-BUfEX",
+    "country": "Germany",
+    "createdByEmail": "root@mail.com"
+  },
+  {
+    "name": "Bootstrap",
+    "about": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components. Developed by Mark Otto and Jacob Thornton at Twitter as a framework to encourage consistency across internal tools, it was originally named Twitter Blueprint and was released as an open-source project in August 2011. Since its inception, Bootstrap has become one of the most popular front-end frameworks for building responsive and modern web interfaces. Its primary goal is to simplify and standardize web development, allowing developers to create consistent and visually appealing websites across different browsers and devices with minimal effort. The framework offers a comprehensive collection of pre-designed components and JavaScript plugins that facilitate rapid prototyping and production-ready web designs. Bootstrap's grid system, in particular, is highly regarded for its flexibility in creating fluid and adaptive layouts. While it originated at Twitter, Bootstrap is now maintained by a dedicated community of developers, ensuring its continuous evolution and adaptation to new web standards and trends. Its wide adoption speaks to its effectiveness in streamlining the development process and empowering designers and developers to build robust and aesthetically pleasing web applications.",
+    "website": "https://getbootstrap.com/docs/5.3/about/careers/",
+    "imageUrl": "https://play.min.io/ajb-bucket/bootstrap-4-logo-svgrepo-com.svg-WGhRO",
+    "country": "United States",
+    "createdByEmail": "amina.yusuf@example.com"
+  },
+  {
+    "name": "Burger King",
+    "about": "Burger King, often abbreviated as BK, is an American multinational chain of hamburger fast food restaurants. Headquartered in Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida\u2013based restaurant chain. The company was acquired by its current owners, James McLamore and David Edgerton, in 1954 and renamed Burger King. Known for its flame-grilled hamburgers, particularly the Whopper, Burger King operates thousands of locations worldwide, serving millions of customers daily. The company is a subsidiary of Restaurant Brands International, a Canadian-American multinational fast food holding company. Burger King's menu primarily features hamburgers, but it also offers a variety of other items such as chicken sandwiches, fries, soft drinks, milkshakes, and desserts. The brand has a strong global presence, with restaurants in over 100 countries and territories. Over the years, Burger King has focused on innovation in its menu and marketing strategies, aiming to differentiate itself in the highly competitive fast-food market. Its commitment to offering a diverse range of products, including healthier options and plant-based alternatives, reflects its efforts to cater to evolving consumer preferences while maintaining its core appeal as a quick-service restaurant. The brand continues to expand its international footprint and adapt its offerings to local tastes and culinary traditions.",
+    "website": "https://careers.bk.com/jobs/all",
+    "imageUrl": "https://play.min.io/ajb-bucket/burger-king-24690-logo-svgrepo-com.svg-odgib",
+    "country": "United States",
+    "createdByEmail": "maria.garcia@example.com"
+  },
+  {
+    "name": "Creative Cloud",
+    "about": "Creative Cloud is a suite of creative applications and services developed by Adobe Inc. for graphic design, video editing, web development, photography, and cloud services. Launched in 2011, Creative Cloud operates on a software as a service (SaaS) model, providing users access to a collection of software traditionally sold as perpetual licenses. This subscription-based model allows for continuous updates and new features, ensuring users always have the latest tools at their disposal. The suite includes industry-standard applications such as Photoshop, Illustrator, InDesign, Premiere Pro, and Acrobat Pro, along with mobile apps and cloud storage. Creative Cloud has become an essential toolkit for creative professionals worldwide, offering a seamless workflow across devices and facilitating collaboration among teams. Adobe Inc., the company behind Creative Cloud, is an American multinational computer software company incorporated in Delaware and headquartered in San Jose, California. Founded in 1982 by John Warnock and Charles Geschke, Adobe has been instrumental in the desktop publishing revolution and continues to innovate in digital media and marketing solutions. The company's mission is to 'change the world through digital experiences,' and Creative Cloud is a testament to this commitment, empowering millions of users to bring their creative visions to life.",
+    "website": "https://www.adobe.com/careers.html#jobs",
+    "imageUrl": "https://play.min.io/ajb-bucket/creative-cloud-cc-logo-svgrepo-com.svg-JHwwz",
+    "country": "United States",
+    "createdByEmail": "lucy.lee@example.com"
+  },
+  {
+    "name": "Creative Market",
+    "about": "Creative Market is an online marketplace for designers and creative professionals to buy and sell digital assets. It offers a wide range of products including graphics, fonts, themes, photos, and templates, catering to various creative projects. The platform was founded in 2012 and quickly grew into a popular destination for creators seeking high-quality design resources. Creative Market operates on a model that allows independent creators to showcase and monetize their work, fostering a vibrant community of designers. The marketplace is known for its curated selection and user-friendly interface, making it easy for both sellers to upload their products and buyers to find what they need. Its mission is to empower creators around the world by providing them with the tools and resources to bring their ideas to life. While the 'Creative' in the URL might also refer to 'Creative Technology Ltd.', a Singaporean company known for multimedia products, the context of 'Creative Market' as a digital asset marketplace is distinct and widely recognized in the design community. Creative Market is focused on supporting the creative economy by connecting designers with the resources they need to succeed.",
+    "website": "https://creativemarket.com/careers/openings",
+    "imageUrl": "https://play.min.io/ajb-bucket/creative-market-svgrepo-com.svg-SNfwf",
+    "country": "United States",
+    "createdByEmail": "maria.garcia@example.com"
+  },
+  {
+    "name": "Docker",
+    "about": "Docker is an open-source platform that enables developers to build, ship, and run applications in containers. Containers are lightweight, portable, and self-sufficient units that package an application and all its dependencies, ensuring that the application runs consistently across different environments. Docker was first released in 2013 and has since revolutionized software development and deployment by providing a standardized way to package and distribute applications. The company, Docker, Inc., is headquartered in Palo Alto, California, and was founded by Solomon Hykes, Sebastien Pahl, and Kamel Founadi. Docker's technology simplifies the process of managing software dependencies and ensures that applications behave the same way in development, testing, and production environments. It has become an essential tool for DevOps practices, enabling faster and more reliable software delivery. Docker's ecosystem includes Docker Engine, Docker Desktop, Docker Hub, and Docker Compose, among other tools, which together provide a comprehensive solution for containerization. The widespread adoption of Docker has led to a significant shift in how software is developed, deployed, and scaled in cloud-native architectures.",
+    "website": "https://www.docker.com/career-openings/",
+    "imageUrl": "https://play.min.io/ajb-bucket/docker-logo-svgrepo-com.svg-dsLwe",
+    "country": "United States",
+    "createdByEmail": "fatima.ali@example.com"
+  },
+  {
+    "name": "Dribbble",
+    "about": "Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a platform where designers can share their work, gain inspiration, and connect with other designers and potential clients. Founded in 2009 by Dan Cederholm and Rich Thornett, Dribbble has grown into one of the largest and most influential online communities for design professionals. The platform allows users to upload 'shots' \u2013 small screenshots of their work \u2013 which can include anything from app interfaces and web designs to illustrations and animations. Dribbble's focus on visual content and its curated community have made it a go-to resource for discovering design talent and showcasing portfolios. Beyond sharing work, Dribbble also facilitates job opportunities through its 'Jobs' board and 'Freelance' features, connecting designers with companies looking to hire creative talent. The company aims to help designers find work, grow their skills, and engage with a global audience. It plays a significant role in the design industry by providing visibility to designers and fostering a collaborative environment for creative development.",
+    "website": "https://dribbble.com/careers/job_openings",
+    "imageUrl": "https://play.min.io/ajb-bucket/dribbble-icon-1-logo-svgrepo-com.svg-CPIEI",
+    "country": "United States",
+    "createdByEmail": "amina.yusuf@example.com"
+  },
+  {
+    "name": "Facebook",
+    "about": "Facebook, now part of Meta Platforms, Inc., is an American multinational technology conglomerate based in Menlo Park, California. Founded by Mark Zuckerberg, along with his Harvard College roommates and fellow students Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes, it launched in 2004. Originally known simply as 'TheFacebook,' it was initially intended as a social network for Harvard students before expanding to other universities and eventually to the general public. Facebook quickly grew into the world's largest social media platform, connecting billions of people globally. Its core product, the Facebook social networking service, allows users to create profiles, post text, photos, and videos, share content, and interact with friends, family, and public figures. Over the years, Facebook has expanded its offerings to include various features like Messenger, Groups, Events, and Marketplace. In 2021, the parent company rebranded to Meta Platforms to reflect its focus on building the metaverse, a virtual reality space where users can interact in a computer-generated environment. Despite controversies surrounding data privacy and content moderation, Facebook remains a dominant force in the social media landscape, constantly evolving its platform and acquiring other popular services like Instagram and WhatsApp to maintain its vast user base and influence.",
+    "website": "https://www.metacareers.com/jobs/",
+    "imageUrl": "https://play.min.io/ajb-bucket/facebook-like-logo-svgrepo-com.svg-tCzpR",
+    "country": "United States",
+    "createdByEmail": "employer@techcorp.com"
+  },
+  {
+    "name": "Facebook Love",
+    "about": "The Facebook 'Love' reaction is one of the six emotional reactions users can use to express their feelings towards a post, comment, photo, or video on Facebook. Introduced in 2016 as part of the 'Reactions' feature, the 'Love' reaction (represented by a heart emoji) was designed to provide a more nuanced way for users to respond to content beyond just the traditional 'Like' button. It signifies a stronger positive sentiment, often used to convey affection, appreciation, or warmth. This feature was developed by Facebook (now Meta Platforms, Inc.), an American multinational technology conglomerate. The 'Love' reaction quickly became one of the most popular reactions, offering users a quick and universal way to express empathy and connection. Its implementation reflects Facebook's ongoing efforts to enhance user engagement and provide diverse communication tools within its platform. While not a company in itself, the 'Facebook Love' logo represents a significant and widely recognized feature of the Facebook social media platform, originating from the United States-based Meta Platforms Inc.",
+    "website": "https://www.metacareers.com/jobs/reactions",
+    "imageUrl": "https://play.min.io/ajb-bucket/facebook-love-logo-svgrepo-com.svg-TjZbo",
+    "country": "United States",
+    "createdByEmail": "amina.yusuf@example.com"
+  },
+  {
+    "name": "Facebook Messenger",
+    "about": "Facebook Messenger, commonly known as Messenger, is an instant messaging service and software application developed by Meta Platforms, Inc. Originally launched as Facebook Chat in 2008, the company revamped its messaging product in 2011 to become a standalone mobile app. Messenger allows users to send text messages, voice messages, make voice and video calls, and share images, videos, and files. It also supports group chats, various stickers and emojis, and integrates with other Facebook features. Over the years, Messenger has evolved beyond a simple messaging app, incorporating features like payment capabilities, games, and chatbots for businesses. It serves as a primary communication tool for billions of users worldwide, enabling connections across different devices and platforms. While deeply integrated with Facebook's social network, Messenger functions as a separate application, emphasizing direct, private communication. The development and continuous evolution of Messenger highlight Meta Platforms' commitment to expanding its communication ecosystem and providing diverse ways for people to interact digitally. The company, Meta Platforms, Inc., is based in the United States.",
+    "website": "https://www.messenger.com/careers/openings",
+    "imageUrl": "https://play.min.io/ajb-bucket/facebook-messenger-3-logo-svgrepo-com.svg-psIZu",
+    "country": "United States",
+    "createdByEmail": "fatima.ali@example.com"
+  },
+  {
+    "name": "Figma",
+    "about": "Figma is a web-based collaborative interface design tool. It allows multiple users to work on a single design project simultaneously in real-time, making it a popular choice for teams. Launched in 2016, Figma revolutionized the design industry with its browser-based approach, eliminating the need for software installations and enabling seamless collaboration regardless of operating system. The company, Figma, Inc., is headquartered in San Francisco, California. Figma offers a comprehensive set of features for UI/UX design, including vector editing, prototyping, and design system creation. Its intuitive interface and powerful capabilities have made it a favorite among product designers, web designers, and UX researchers. Beyond design, Figma also includes FigJam, an online whiteboard for brainstorming and collaboration. The platform's emphasis on accessibility and real-time co-creation has significantly streamlined design workflows and fostered greater transparency within design teams. Figma's continuous development and strong community support ensure its position as a leading tool in the digital design landscape, empowering designers to create, share, and iterate more efficiently.",
+    "website": "https://www.figma.com/careers/jobs",
+    "imageUrl": "https://play.min.io/ajb-bucket/figma-1-logo-svgrepo-com.svg-aIbfR",
+    "country": "United States",
+    "createdByEmail": "lucy.lee@example.com"
+  },
+  {
+    "name": "Firebase",
+    "about": "Firebase is a comprehensive platform developed by Google for creating mobile and web applications. It provides a suite of tools and services that help developers build high-quality apps, grow their user base, and earn more money. Originally an independent company founded in 2011 by James Tamplin and Andrew Lee, Firebase was acquired by Google in 2014. Since then, Google has significantly expanded Firebase's offerings, integrating it deeply into its cloud ecosystem. Key Firebase services include real-time databases, authentication, cloud storage, hosting, machine learning capabilities, analytics, and crash reporting. These services abstract away much of the backend development complexity, allowing developers to focus on the user experience and front-end logic. Firebase is widely used by startups and large enterprises alike for its scalability, ease of use, and robust set of features. It supports cross-platform development, making it a versatile choice for applications targeting Android, iOS, and the web. As a Google product, Firebase benefits from Google's extensive infrastructure and research in areas like AI and machine learning, continuously enhancing its capabilities for developers globally.",
+    "website": "https://careers.google.com/jobs/results/?q=Firebase",
+    "imageUrl": "https://play.min.io/ajb-bucket/firebase-1-logo-svgrepo-com.svg-zhXTE",
+    "country": "United States",
+    "createdByEmail": "maria.garcia@example.com"
+  },
+  {
+    "name": "Git",
+    "about": "Git is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. Git was created by Linus Torvalds in 2005 for the development of the Linux kernel, with other kernel developers contributing to its initial development. Since then, it has become the most widely used version control system for software development, both for open-source and commercial projects. Unlike older centralized version control systems, Git allows every developer to have a full copy of the entire repository history on their local machine, enabling offline work and faster operations. Its distributed nature also makes it highly resilient to failures and facilitates complex branching and merging strategies. While Git itself is an open-source project and not a 'company,' it is foundational to countless software development organizations globally. Platforms like GitHub, GitLab, and Bitbucket are built on top of Git, offering hosting and collaboration features that integrate Git's capabilities into a complete development workflow. Its robust and flexible design has made it indispensable for modern software engineering practices.",
+    "website": "https://git-scm.com/about/jobs",
+    "imageUrl": "https://play.min.io/ajb-bucket/git-icon-logo-svgrepo-com.svg-ZsjZi",
+    "country": "United States",
+    "createdByEmail": "amina.yusuf@example.com"
+  },
+  {
+    "name": "Google Chrome",
+    "about": "Google Chrome is a freeware web browser developed by Google. First released in 2008, Chrome quickly rose to become the world's most popular web browser, largely due to its speed, simplicity, and extensive ecosystem of extensions. It is built on the open-source Chromium project, which also powers other browsers. Chrome offers a clean and minimalist user interface, focusing on content and user experience. Key features include tabbed Browse, a built-in PDF viewer, incognito mode for private Browse, synchronization across devices, and robust developer tools. Google regularly updates Chrome, introducing new features, security patches, and performance improvements. As a Google product, Chrome is deeply integrated with other Google services like Gmail, Google Drive, and YouTube, providing a seamless experience for users within the Google ecosystem. Its widespread adoption has significantly influenced web standards and development practices. While the browser itself is freeware, it is a flagship product of Google, an American multinational technology company headquartered in Mountain View, California, specializing in Internet-related services and products.",
+    "website": "https://careers.google.com/jobs/results/?q=Chrome",
+    "imageUrl": "https://play.min.io/ajb-bucket/google-chrome-logo-svgrepo-com.svg-aQprm",
+    "country": "United States",
+    "createdByEmail": "sarah.connor@example.com"
+  },
+  {
+    "name": "Google Cloud",
+    "about": "Google Cloud, officially Google Cloud Platform (GCP), is a suite of cloud computing services offered by Google. It provides a wide range of hosted services for computing, storage, networking, big data, machine learning, and the Internet of Things (IoT). Launched in 2008 with the introduction of App Engine, GCP has grown into a major player in the global cloud market, competing with Amazon Web Services (AWS) and Microsoft Azure. Google Cloud enables businesses to build, deploy, and scale applications and services on Google's robust global infrastructure. Its offerings include virtual machines (Compute Engine), serverless computing (Cloud Functions), managed databases (Cloud SQL, Cloud Spanner), data analytics tools (BigQuery), and machine learning services (AI Platform). GCP is known for its strong emphasis on data analytics, machine learning, and open-source technologies. It caters to a diverse range of clients, from startups to large enterprises, providing scalable and secure solutions for various industry needs. As a part of Google, an American multinational technology company, Google Cloud benefits from Google's extensive research and development in cutting-edge technologies, continually expanding its capabilities and global reach.",
+    "website": "https://cloud.google.com/careers/explore-jobs",
+    "imageUrl": "https://play.min.io/ajb-bucket/google-cloud-logo-svgrepo-com.svg-MsZZF",
+    "country": "United States",
+    "createdByEmail": "lucy.lee@example.com"
+  },
+  {
+    "name": "Google Drive",
+    "about": "Google Drive is a cloud-based storage and synchronization service developed by Google. Launched in April 2012, it allows users to store files on Google's servers, synchronize files across devices, and share files with others. Google Drive integrates seamlessly with other Google services, including Google Docs, Sheets, and Slides, providing a comprehensive suite of online productivity tools. Users can create, edit, and collaborate on documents, spreadsheets, and presentations directly within Drive's interface. It offers a generous amount of free storage, with options to purchase additional space. The service is accessible via web browsers, desktop applications for Windows and macOS, and mobile apps for Android and iOS, enabling users to access their files from anywhere with an internet connection. Google Drive has become an indispensable tool for personal and professional use, facilitating remote work, collaborative projects, and secure file storage. As a product of Google, an American multinational technology company, Google Drive benefits from Google's vast infrastructure and commitment to cloud innovation, ensuring reliable performance and continuous feature enhancements.",
+    "website": "https://careers.google.com/jobs/results/?q=Google%20Drive",
+    "imageUrl": "https://play.min.io/ajb-bucket/google-drive-logo-svgrepo-com.svg-kazWC",
+    "country": "United States",
+    "createdByEmail": "fatima.ali@example.com"
+  },
+  {
+    "name": "Google",
+    "about": "Google LLC is an American multinational technology company focusing on online advertising, search engine technology, cloud computing, software, and hardware. It is considered one of the Big Five American information technology companies, alongside Amazon, Apple, Meta, and Microsoft. Google was founded in September 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California. The company's primary product, Google Search, is the most widely used search engine worldwide. Google's vast portfolio of services and products includes Gmail, Google Maps, YouTube, Android, Google Chrome, and Google Cloud, among many others. The company is known for its innovative approach to technology, its extensive data centers, and its significant influence on the internet and global information access. Google's mission is to organize the world's information and make it universally accessible and useful. In 2015, Google restructured its operations, becoming the largest subsidiary of the holding company Alphabet Inc. Google continues to be at the forefront of technological advancements, investing heavily in areas such as artificial intelligence, autonomous vehicles, and quantum computing, shaping the future of digital interaction and information management.",
+    "website": "https://careers.google.com/jobs/results/",
+    "imageUrl": "https://play.min.io/ajb-bucket/google-g-2015-logo-svgrepo-com.svg-PiUTq",
+    "country": "United States",
+    "createdByEmail": "fatima.ali@example.com"
+  },
+  {
+    "name": "Google Hangouts",
+    "about": "Google Hangouts was a communication platform developed by Google. Originally launched in 2013, it was designed to integrate various Google communication products, including Google Talk, Google+ Messenger, and Hangouts, into a unified platform for messaging, video chat, and voice calls. It allowed users to have one-on-one conversations, group chats, and conduct multi-person video conferences. Hangouts was popular for its integration with Gmail and other Google services, making it convenient for users within the Google ecosystem. Over time, Google transitioned its communication strategy, eventually phasing out Google Hangouts for enterprise users, replacing it with Google Chat and Google Meet as part of Google Workspace (formerly G Suite). For consumers, some functionalities were absorbed into Google Messages and Google Duo. While the standalone Google Hangouts service has been largely retired, its legacy lives on in Google's current communication tools, which continue to provide robust messaging and video conferencing capabilities. As a Google product, its origins and development are tied to the American multinational technology company based in Mountain View, California.",
+    "website": "https://careers.google.com/jobs/results/?q=Google%20Meet",
+    "imageUrl": "https://play.min.io/ajb-bucket/google-hangouts-logo-svgrepo-com.svg-JKhZa",
+    "country": "United States",
+    "createdByEmail": "fatima.ali@example.com"
+  },
+  {
+    "name": "Google",
+    "about": "Google LLC is an American multinational technology company focusing on online advertising, search engine technology, cloud computing, software, and hardware. It is considered one of the Big Five American information technology companies, alongside Amazon, Apple, Meta, and Microsoft. Google was founded in September 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University in California. The company's primary product, Google Search, is the most widely used search engine worldwide. Google's vast portfolio of services and products includes Gmail, Google Maps, YouTube, Android, Google Chrome, and Google Cloud, among many others. The company is known for its innovative approach to technology, its extensive data centers, and its significant influence on the internet and global information access. Google's mission is to organize the world's information and make it universally accessible and useful. In 2015, Google restructured its operations, becoming the largest subsidiary of the holding company Alphabet Inc. Google continues to be at the forefront of technological advancements, investing heavily in areas such as artificial intelligence, autonomous vehicles, and quantum computing, shaping the future of digital interaction and information management.",
+    "website": "https://careers.google.com/jobs/results/",
+    "imageUrl": "https://play.min.io/ajb-bucket/google-icon-logo-svgrepo-com.svg-cZbSh",
+    "country": "United States",
+    "createdByEmail": "maria.garcia@example.com"
+  },
+  {
+    "name": "Google Photos",
+    "about": "Google Photos is a photo and video sharing and storage service developed by Google. Launched in May 2015, it was initially lauded for offering unlimited storage of photos and videos up to a certain resolution, making it an incredibly popular choice for users to back up their media. It provides intelligent organization, automatic backups, and powerful editing tools, along with features like facial recognition for grouping similar faces, automatic album creation, and cinematic photos. Google Photos leveraged Google's advanced machine learning capabilities to make it easy for users to find, share, and manage their vast collections of memories. While the free unlimited storage policy was later adjusted in 2021, Google Photos remains a widely used service due to its robust features and seamless integration with the Google ecosystem. It is accessible across various platforms, including web browsers, Android, and iOS devices. As a flagship consumer product of Google, an American multinational technology company, Google Photos continues to evolve with new AI-powered features, enhancing the way people interact with their digital memories.",
+    "website": "https://careers.google.com/jobs/results/?q=Google%20Photos",
+    "imageUrl": "https://play.min.io/ajb-bucket/google-photos-logo-svgrepo-com.svg-xoTgH",
+    "country": "United States",
+    "createdByEmail": "amina.yusuf@example.com"
+  },
+  {
+    "name": "Graphic Design",
+    "about": "Graphic design is a broad professional field and applied art whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and a branch of the fine arts. Its roots trace back to ancient forms of communication, evolving significantly with the advent of printing and then digital technologies. Modern graphic design emerged in the early 20th century, heavily influenced by art movements like Constructivism, Bauhaus, and Art Deco. Graphic designers use a combination of typography, imagery, and layout techniques to create visually appealing and effective communication pieces. Applications of graphic design are ubiquitous and include logos, branding, websites, advertisements, magazines, books, packaging, and user interfaces. The field is constantly evolving with technological advancements and changing cultural trends, requiring designers to continuously adapt and learn new tools and techniques. While 'Graphic Design' itself is not a company but a discipline, it is practiced by countless design agencies, studios, and individual freelancers globally. Therefore, there isn't a single 'country of origin' for the field, but it thrives in virtually every country where visual communication is important.",
+    "website": "https://www.aiga.org/career-paths/find-a-job",
+    "imageUrl": "https://play.min.io/ajb-bucket/graphic-design-svgrepo-com%20%281%29.svg-nUqCd",
+    "country": "United States",
+    "createdByEmail": "amina.yusuf@example.com"
+  },
+  {
+    "name": "Graphic Design",
+    "about": "Graphic design is a broad professional field and applied art whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and a branch of the fine arts. Its roots trace back to ancient forms of communication, evolving significantly with the advent of printing and then digital technologies. Modern graphic design emerged in the early 20th century, heavily influenced by art movements like Constructivism, Bauhaus, and Art Deco. Graphic designers use a combination of typography, imagery, and layout techniques to create visually appealing and effective communication pieces. Applications of graphic design are ubiquitous and include logos, branding, websites, advertisements, magazines, books, packaging, and user interfaces. The field is constantly evolving with technological advancements and changing cultural trends, requiring designers to continuously adapt and learn new tools and techniques. While 'Graphic Design' itself is not a company but a discipline, it is practiced by countless design agencies, studios, and individual freelancers globally. Therefore, there isn't a single 'country of origin' for the field, but it thrives in virtually every country where visual communication is important.",
+    "website": "https://www.aiga.org/career-paths/find-a-job",
+    "imageUrl": "https://play.min.io/ajb-bucket/graphic-design-svgrepo-com.svg-ZJGmP",
+    "country": "United States",
+    "createdByEmail": "fatima.ali@example.com"
+  },
+  {
+    "name": "Grooveshark",
+    "about": "Grooveshark was an online music streaming service owned and operated by Escape Media Group in the United States. It allowed users to upload and stream music, and also featured a music search engine, recommendation engine, and social networking features. Founded in 2006 by Sam Tarantino and Josh Greenberg, Grooveshark quickly gained popularity as a platform for discovering and listening to music for free. However, its business model, which relied heavily on user-uploaded content without securing proper licensing agreements from record labels, led to numerous copyright infringement lawsuits. This legal pressure ultimately resulted in the service's shutdown in April 2015, following settlements and agreements with major record labels. Despite its controversial history, Grooveshark played a significant role in the early development of online music streaming and demonstrated the public's appetite for on-demand music access. Its rise and fall serve as a notable case study in the challenges of digital content distribution and copyright in the evolving music industry. The company operated primarily from its headquarters in Gainesville, Florida, before its closure.",
+    "website": "https://www.grooveshark.com/archive/job_opportunities",
+    "imageUrl": "https://play.min.io/ajb-bucket/grooveshark-logo-svgrepo-com.svg-MgCLy",
+    "country": "United States",
+    "createdByEmail": "root@mail.com"
+  },
+  {
+    "name": "Instagram",
+    "about": "Instagram is a photo and video sharing social networking service owned by Meta Platforms. It was created by Kevin Systrom and Mike Krieger and launched in October 2010 exclusively on iOS. A version for Android devices was released in April 2012, followed by a feature-limited desktop interface in November 2012. Instagram quickly gained immense popularity due to its focus on visual content, simple interface, and array of filters. Users can upload photos and videos, edit them with various filters, and organize them with tags and location information. The platform also includes features like Stories (short-lived content), Reels (short-form videos), and Direct (private messaging). In 2012, Facebook (now Meta Platforms) acquired Instagram for approximately $1 billion, a strategic move that significantly expanded Facebook's reach in the mobile and visual social media space. Instagram has become a global phenomenon, used by billions of people, including individuals, celebrities, and businesses, to share moments, build communities, and engage with audiences through compelling visual narratives. The company's headquarters are located in Menlo Park, California, as part of Meta Platforms.",
+    "website": "https://www.instagram.com/about/careers/jobs/",
+    "imageUrl": "https://play.min.io/ajb-bucket/instagram-2016-logo-svgrepo-com.svg-mJuIf",
+    "country": "United States",
+    "createdByEmail": "employer@techcorp.com"
+  },
+  {
+    "name": "JavaScript",
+    "about": "JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It is a multi-paradigm language, supporting event-driven, functional, and imperative programming styles. Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. It enables interactive web pages and is an essential part of web applications. The vast majority of websites use it for client-side page behavior, and all major web browsers have a dedicated JavaScript engine to execute it. Originally developed by Brendan Eich at Netscape Communications in 1995, it was first named LiveScript but was renamed JavaScript as part of a co-marketing agreement with Sun Microsystems, creators of Java. Despite the similar names, JavaScript and Java are distinct languages. Beyond web browsers, JavaScript engines are embedded in various other software systems, including server-side environments (Node.js), desktop applications (Electron), and mobile apps (React Native). Its versatility and widespread adoption have made it a cornerstone of modern software development, powering everything from simple websites to complex enterprise applications. As a programming language, JavaScript does not have a single 'company' or 'country of origin' in the traditional sense, but its development was spearheaded by an American company, Netscape.",
+    "website": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/jobs",
+    "imageUrl": "https://play.min.io/ajb-bucket/javascript-logo-svgrepo-com.svg-nAQqB",
+    "country": "United States",
+    "createdByEmail": "lucy.lee@example.com"
+  },
+  {
+    "name": "KFC",
+    "about": "KFC (Kentucky Fried Chicken) is an American fast food restaurant chain headquartered in Louisville, Kentucky, that specializes in fried chicken. It is the world's second-largest restaurant chain (after McDonald's) by sales, with 30,000 locations globally in 150 countries as of 2024. The chain is a subsidiary of Yum! Brands, a company that also owns the Pizza Hut, Taco Bell, and The Habit Burger Grill chains. KFC was founded by Colonel Harland Sanders, an entrepreneur who began selling fried chicken from his roadside restaurant in Corbin, Kentucky, during the Great Depression. Sanders identified the potential of the restaurant franchising concept, and the first KFC franchise opened in Utah in 1952. The company popularized chicken in the fast-food industry, diversifying the market by challenging the established dominance of the hamburger. KFC's iconic product is its Original Recipe fried chicken, prepared with Sanders's '11 herbs and spices.' The company has continuously adapted its menu to local tastes and culinary traditions in its international markets while maintaining its core focus on fried chicken. Its global presence and strong brand recognition make it a significant player in the quick-service restaurant industry worldwide.",
+    "website": "https://jobs.kfc.com/career-areas",
+    "imageUrl": "https://play.min.io/ajb-bucket/kfc-2-logo-svgrepo-com.svg-XMPVp",
+    "country": "United States",
+    "createdByEmail": "employer@techcorp.com"
+  },
+  {
+    "name": "LinkedIn",
+    "about": "LinkedIn is an American business and employment-oriented social media platform that operates via websites and mobile apps. Launched on December 28, 2002, and officially launched in May 2003, it is primarily used for professional networking and career development. The platform allows members to create profiles showcasing their professional experience, skills, and education, and to connect with other professionals, discover job opportunities, and share industry-related content. LinkedIn has become an essential tool for job seekers, recruiters, and businesses looking to build professional networks, find talent, and establish industry presence. In 2016, Microsoft acquired LinkedIn for over $26 billion, integrating the professional networking platform into its suite of business services. LinkedIn offers various services, including job listings, a premium subscription for advanced networking and learning, and advertising solutions for businesses. It also hosts a vast amount of professional content, including articles, courses (LinkedIn Learning), and industry news, establishing itself as a leading resource for professional development and industry insights globally. Its headquarters are located in Sunnyvale, California.",
+    "website": "https://careers.linkedin.com/jobs",
+    "imageUrl": "https://play.min.io/ajb-bucket/linkedin-icon-logo-svgrepo-com.svg-ZkCnJ",
+    "country": "United States",
+    "createdByEmail": "lucy.lee@example.com"
+  },
+  {
+    "name": "Lyft",
+    "about": "Lyft is an American company that operates a mobile app-based transportation network, ride-sharing, and rental car service. Founded in 2012 by Logan Green and John Zimmer, Lyft quickly emerged as a major competitor to Uber in the ride-sharing market. Headquartered in San Francisco, California, Lyft connects passengers seeking rides with drivers offering transportation services through its mobile application. Beyond ride-sharing, Lyft has expanded its offerings to include shared bikes and scooters, and a car rental service, aiming to provide a comprehensive range of urban mobility solutions. The company emphasizes a strong community focus and a friendly, accessible service. Lyft's platform leverages GPS technology to match riders with nearby drivers, estimate fares, and facilitate cashless payments. It has played a significant role in disrupting traditional taxi services and changing urban transportation patterns, offering convenience and flexibility to millions of users across the United States and Canada. Lyft is committed to improving cities through better transportation and has invested in initiatives to promote sustainable and accessible mobility options.",
+    "website": "https://www.lyft.com/careers/job-openings",
+    "imageUrl": "https://play.min.io/ajb-bucket/lyft-logo-svgrepo-com.svg-uLgGm",
+    "country": "United States",
+    "createdByEmail": "lucy.lee@example.com"
+  },
+  {
+    "name": "Mastercard",
+    "about": "Mastercard Inc. is an American multinational financial services corporation headquartered in Purchase, New York. It facilitates payments between banks and merchants around the world, primarily through its Mastercard-branded credit, debit, and prepaid cards. Founded in 1966 as Interbank Card Association (ICA), it was renamed MasterCard International in 1979. Mastercard operates one of the largest global payment processing networks, enabling secure and efficient financial transactions for individuals, businesses, and governments. The company does not issue cards directly but rather partners with financial institutions to offer payment products. Mastercard plays a crucial role in the global economy, supporting commerce by providing a reliable and trusted payment infrastructure. Beyond its core card services, Mastercard is also involved in developing innovative payment solutions, including digital payment technologies, cybersecurity tools, and data analytics services. Its extensive network and technological advancements aim to make payments faster, safer, and more convenient for billions of people worldwide, contributing to financial inclusion and economic growth across diverse markets. Mastercard is a publicly traded company and a major player in the global financial technology sector.",
+    "website": "https://www.mastercard.com/global/en/careers/jobs.html",
+    "imageUrl": "https://play.min.io/ajb-bucket/mastercard-2-logo-svgrepo-com.svg-Fpzft",
+    "country": "United States",
+    "createdByEmail": "sarah.connor@example.com"
+  },
+  {
+    "name": "Microsoft Windows",
+    "about": "Microsoft Windows, commonly known as Windows, is a series of graphical operating systems developed and marketed by Microsoft. First introduced in 1985 as a graphical shell for MS-DOS, Windows has evolved into the most widely used personal computer operating system in the world. It provides a graphical user interface (GUI), multitasking capabilities, and support for a vast array of software applications and hardware devices. Over its decades of development, Windows has seen numerous versions and iterations, from Windows 95 and XP to Windows 7, 10, and the latest Windows 11. Each version has introduced new features, improved performance, and enhanced security, adapting to the changing landscape of computing. Windows plays a fundamental role in personal computing, powering millions of desktops, laptops, and tablets globally. As a flagship product of Microsoft, an American multinational technology corporation headquartered in Redmond, Washington, Windows is deeply integrated with other Microsoft services and products, including Office 365, Azure, and Xbox. Microsoft's ongoing investment in Windows development ensures its continued relevance and innovation in the ever-evolving technology landscape, serving a diverse user base from individual consumers to large enterprises.",
+    "website": "https://careers.microsoft.com/v2/global/en/home.html",
+    "imageUrl": "https://play.min.io/ajb-bucket/microsoft-windows-22-logo-svgrepo-com.svg-nkHUw",
+    "country": "United States",
+    "createdByEmail": "maria.garcia@example.com"
+  },
+  {
+    "name": "Monero",
+    "about": "Monero (XMR) is a decentralized, privacy-focused cryptocurrency launched in April 2014. It is an open-source project that focuses on fungibility, privacy, and decentralization. Unlike Bitcoin and many other cryptocurrencies, Monero is designed to be untraceable and anonymous, using advanced cryptographic techniques like ring signatures, ring confidential transactions (RingCT), and stealth addresses to obscure transaction details, including sender, receiver, and amount. This emphasis on privacy makes all Monero transactions fungible, meaning each unit of Monero is identical and interchangeable with any other unit, preventing transaction history from affecting its value or usability. Monero operates on a proof-of-work algorithm called RandomX, which is designed to be ASIC-resistant, promoting decentralization of mining and preventing large-scale mining operations from dominating the network. As an open-source project, Monero is developed and maintained by a global community of contributors, rather than a single company. Its development is driven by a commitment to privacy and financial freedom, making it a popular choice for users who prioritize anonymity in their digital transactions. It does not have a single country of origin due to its decentralized nature and global developer community.",
+    "website": "https://www.getmonero.org/community/jobs/",
+    "imageUrl": "https://play.min.io/ajb-bucket/monero-logo-svgrepo-com.svg-wFavb",
+    "country": "United States",
+    "createdByEmail": "root@mail.com"
+  },
+  {
+    "name": "Myspace",
+    "about": "Myspace is an American social networking website offering an interactive, user-submitted network of friends, personal profiles, blogs, groups, photos, music, and videos. It was founded in August 2003 by Tom Anderson, Chris DeWolfe, and Jon Hart. Myspace quickly rose to prominence as the largest social networking site in the world by 2006, surpassing Yahoo! and Google in traffic. It was particularly popular among musicians and artists for promoting their work and connecting with fans. Users could customize their profiles extensively with HTML and CSS, leading to a unique and personalized experience for many. However, with the rise of Facebook and other social media platforms that offered simpler interfaces and more streamlined features, Myspace gradually lost its dominant position. It was acquired by News Corporation in 2005 and later sold to Specific Media Group and Justin Timberlake in 2011. While it no longer holds the widespread popularity it once had, Myspace remains an iconic part of early social media history, showcasing the evolution of online communities. Its headquarters were originally in Beverly Hills, California.",
+    "website": "https://myspace.com/about/careers/openings",
+    "imageUrl": "https://play.min.io/ajb-bucket/myspace-logo-svgrepo-com.svg-dhTjN",
+    "country": "United States",
+    "createdByEmail": "amina.yusuf@example.com"
+  },
+  {
+    "name": "Old Electrum",
+    "about": "Electrum is a free and open-source software wallet for Bitcoin. It was created by Thomas Voegtlin in 2011. Electrum is known for its speed and low resource usage, achieved by using remote servers that handle the most complicated parts of the Bitcoin system. This 'thin client' approach allows users to run a full Bitcoin wallet without downloading the entire blockchain, making it quick to set up and use. Electrum prioritizes security by offering features like multi-signature wallets, hardware wallet integration, and robust encryption. Users retain full control over their private keys, which are stored encrypted on their local device. It also supports cold storage, allowing users to keep their bitcoins offline for enhanced security. While the 'Old Electrum' in the image name might suggest an older version or a historical reference, the core Electrum wallet continues to be actively developed and is widely used by Bitcoin enthusiasts for its reliability and security features. As an open-source project, it is maintained by a community of developers, and it does not have a traditional corporate structure or single country of origin, though its initial development was by an individual based in Europe.",
+    "website": "https://electrum.org/#community",
+    "imageUrl": "https://play.min.io/ajb-bucket/oldelectrum-logo-svgrepo-com.svg-LRCfF",
+    "country": "United States",
+    "createdByEmail": "root@mail.com"
+  },
+  {
+    "name": "Raspberry Pi",
+    "about": "The Raspberry Pi is a series of small, single-board computers (SBCs) developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. The first model was launched in 2012, and since then, several generations and variations of the Raspberry Pi have been released, each offering increased processing power, memory, and connectivity options. Despite its small size and low cost, a Raspberry Pi can be used for a wide range of projects, from basic programming and robotics to home automation, media centers, and industrial applications. It typically runs Linux-based operating systems, such as Raspberry Pi OS (formerly Raspbian), and supports various programming languages. The Raspberry Pi has fostered a massive global community of hobbyists, educators, and developers who share projects, tutorials, and support. Its impact extends beyond education, inspiring innovation and providing an accessible platform for tinkering and rapid prototyping across numerous fields. The Raspberry Pi Foundation is a UK-based charity, and the devices are primarily manufactured in the UK.",
+    "website": "https://www.raspberrypi.com/careers/jobs/",
+    "imageUrl": "https://play.min.io/ajb-bucket/raspberry-pi-logo-svgrepo-com.svg-gYNet",
+    "country": "United Kingdom",
+    "createdByEmail": "lucy.lee@example.com"
+  },
+  {
+    "name": "Salesforce",
+    "about": "Salesforce is an American cloud-based software company headquartered in San Francisco, California. Founded in 1999 by Marc Benioff, Parker Harris, Dave Moellenhoff, and Frank Dominguez, Salesforce is best known for its customer relationship management (CRM) products. Salesforce pioneered the cloud computing model (Software as a Service - SaaS) for enterprise applications, offering its services over the internet without requiring customers to install and maintain software on their own servers. The company's comprehensive platform helps businesses manage sales, customer service, marketing, analytics, and application development through its various cloud offerings, including Sales Cloud, Service Cloud, Marketing Cloud, Analytics Cloud, and Salesforce Platform. Salesforce has grown into one of the world's largest enterprise software companies, serving a vast range of industries and businesses of all sizes. It is committed to innovation, sustainability, and giving back to the community through its '1-1-1 model' of integrated corporate philanthropy. Salesforce continues to expand its ecosystem through acquisitions and partnerships, solidifying its position as a leader in cloud computing and enterprise software solutions globally.",
+    "website": "https://www.salesforce.com/careers/jobs/",
+    "imageUrl": "https://play.min.io/ajb-bucket/salesforce-2-logo-svgrepo-com.svg-wBzFA",
+    "country": "United States",
+    "createdByEmail": "employer@techcorp.com"
+  },
+  {
+    "name": "Shell",
+    "about": "Shell plc, commonly known as Shell, is a British multinational oil and gas company headquartered in London, United Kingdom. It is one of the world's largest oil and gas companies, with operations in over 70 countries. Shell's activities span the entire oil and gas value chain, including exploration, production, refining, distribution, and marketing of oil, gas, and lubricants. The company also has a growing portfolio in renewable energy, including biofuels, hydrogen, wind, and solar power, as it transitions towards a lower-carbon future. Founded in 1907 through the merger of Royal Dutch Petroleum Company and The 'Shell' Transport and Trading Company, Shell has a long and complex history marked by significant global energy developments. Shell is a major global employer and supplier of energy products to millions of customers daily. The company is committed to addressing the world's energy needs responsibly, investing in new technologies, and contributing to the energy transition. Its global presence and diverse operations make it a key player in the international energy landscape, influencing everything from fuel prices to energy policy and sustainable development initiatives.",
+    "website": "https://www.shell.com/careers/job-search.html",
+    "imageUrl": "https://play.min.io/ajb-bucket/shell-4-logo-svgrepo-com.svg-MXDwL",
+    "country": "United Kingdom",
+    "createdByEmail": "employer@techcorp.com"
+  },
+  {
+    "name": "Shopping",
+    "about": "Shopping refers to the act of purchasing goods or services. It is a fundamental economic activity that has evolved significantly throughout history, from ancient marketplaces to modern e-commerce platforms. The term 'shopping' encompasses a wide range of activities, including Browse for products, comparing prices, making selections, and completing transactions. In today's digital age, online shopping has become increasingly prevalent, offering convenience, wider selection, and often competitive pricing through websites, mobile apps, and social media platforms. Brick-and-mortar retail stores continue to play a crucial role, providing tactile experiences, immediate gratification, and personalized customer service. The 'Shopping' logo, while generic, represents the universal act of consumption and retail. It is not associated with a single company but rather symbolizes the entire retail industry and consumer behavior globally. Therefore, there is no specific 'country of origin' for the concept of shopping itself, as it is a ubiquitous activity across all economies and cultures. The industry is constantly innovating to meet changing consumer demands, integrating technology like AI for personalized recommendations and virtual reality for immersive shopping experiences.",
+    "website": "https://www.retailjobs.com/job-listings/",
+    "imageUrl": "https://play.min.io/ajb-bucket/shopping-logo-svgrepo-com.svg-sckwt",
+    "country": "Global",
+    "createdByEmail": "amina.yusuf@example.com"
+  },
+  {
+    "name": "Slack",
+    "about": "Slack is a proprietary business communication platform developed by Salesforce. Launched in 2013, it has rapidly become one of the most widely used collaboration tools for teams and organizations worldwide. Slack offers features such as instant messaging, group channels (for specific projects, teams, or topics), direct messaging, file sharing, and voice and video calls. Its intuitive interface, extensive integrations with other business applications (like Google Drive, Salesforce, and Zoom), and powerful search capabilities make it highly effective for streamlining team communication and workflow. Slack was designed to reduce reliance on email and foster more immediate and organized conversations. In 2020, Salesforce announced its acquisition of Slack for approximately $27.7 billion, a move that integrated Slack's communication capabilities into Salesforce's comprehensive suite of enterprise software. While Slack was originally an independent company founded by Stewart Butterfield, Cal Henderson, Eric Costello, and Serguei Mourachov, it is now a key part of Salesforce's offerings. Its headquarters remain in San Francisco, California.",
+    "website": "https://www.slack.com/careers/jobs",
+    "imageUrl": "https://play.min.io/ajb-bucket/slack-new-logo-logo-svgrepo-com.svg-ysXJK",
+    "country": "United States",
+    "createdByEmail": "employer@techcorp.com"
+  },
+  {
+    "name": "Spotify",
+    "about": "Spotify is a Swedish audio streaming and media services provider. Launched in October 2008 by Daniel Ek and Martin Lorentzon, it is one of the world's largest music streaming service providers, with hundreds of millions of users worldwide. Spotify offers a vast library of music, podcasts, and audiobooks, accessible on a wide range of devices, including smartphones, tablets, computers, and smart speakers. The service operates on a freemium model, providing basic features with advertisements and limited control, while premium subscriptions offer ad-free listening, offline playback, and higher audio quality. Spotify has played a transformative role in the music industry, shifting consumption from physical media and downloads to on-demand streaming. It has also expanded into podcasting, investing heavily in exclusive content and original programming. The company is headquartered in Stockholm, Sweden, with offices in various countries globally. Spotify continues to innovate in audio content, leveraging data and algorithms to personalize user experiences and connect artists with their audiences worldwide.",
+    "website": "https://www.spotify.com/us/careers/jobs/",
+    "imageUrl": "https://play.min.io/ajb-bucket/spotify-logo-svgrepo-com.svg-rveMQ",
+    "country": "Sweden",
+    "createdByEmail": "root@mail.com"
+  },
+  {
+    "name": "Trello",
+    "about": "Trello is a web-based, Kanban-style list-making application developed by Atlassian. It was originally created by Fog Creek Software in 2011 and later spun out as a separate company in 2014 before being acquired by Atlassian in 2017. Trello is designed to help teams and individuals organize and prioritize projects in a flexible and visually intuitive way. It uses boards, lists, and cards to enable users to manage tasks, track progress, and collaborate effectively. Each 'board' represents a project or workflow, 'lists' represent stages within that workflow (e.g., To Do, Doing, Done), and 'cards' represent individual tasks or items that can be moved between lists. Trello's simplicity and drag-and-drop interface make it accessible for a wide range of uses, from personal task management to complex team projects across various industries. It integrates with numerous other applications and offers features like checklists, due dates, attachments, and comments. As part of Atlassian, an Australian software company, Trello continues to be a popular choice for agile project management and visual collaboration, serving millions of users worldwide.",
+    "website": "https://www.atlassian.com/company/careers/job-listings?query=Trello",
+    "imageUrl": "https://play.min.io/ajb-bucket/trello-logo-svgrepo-com.svg-yNrMK",
+    "country": "United States",
+    "createdByEmail": "root@mail.com"
+  },
+  {
+    "name": "Visa",
+    "about": "Visa Inc. is an American multinational financial services corporation headquartered in San Francisco, California. It facilitates electronic funds transfers throughout the world, most commonly through Visa-branded credit cards, debit cards, and prepaid cards. Founded in 1958 as BankAmericard, a credit card program offered by Bank of America, it later became independent and was renamed Visa in 1976. Visa operates one of the world's largest retail electronic payments networks, processing billions of transactions annually between consumers, merchants, financial institutions, and government entities. Similar to Mastercard, Visa does not issue cards directly; rather, it provides financial institutions with Visa-branded payment products that they then offer to their customers. Visa is a critical component of the global financial infrastructure, enabling commerce and facilitating secure and convenient payments for individuals and businesses across more than 200 countries and territories. The company is continuously investing in new payment technologies, including contactless payments, mobile payments, and blockchain solutions, to drive innovation in the digital economy and ensure the security and efficiency of financial transactions globally.",
+    "website": "https://usa.visa.com/careers/job-opportunities.html",
+    "imageUrl": "https://play.min.io/ajb-bucket/visa-logo-svgrepo-com.svg-tEmSX",
+    "country": "United States",
+    "createdByEmail": "maria.garcia@example.com"
+  }
+]
