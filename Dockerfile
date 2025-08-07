@@ -14,5 +14,5 @@ FROM base AS runner
 WORKDIR /app
 EXPOSE 5000
 COPY --from=builder /app .
-RUN pnpm db:migrate
+# RUN pnpm db:migrate
 CMD ["pnpm", "start"]
