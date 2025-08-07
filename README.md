@@ -6,7 +6,7 @@ In addition to its robust feature set, African Job Board is built using a modern
 
 ## Database Setup and Migrations
 
-This project uses [Drizzle Kit](https://orm.drizzle.team/docs/overview) for managing database migrations with PostgreSQL. To streamline local development, the `apps/api` directory includes a `docker-compose.yaml` file that provisions a PostgreSQL database container.
+This project uses [Drizzle Kit](https://orm.drizzle.team/docs/overview) for managing database migrations with PostgreSQL. To streamline local development, the project includes a `docker-compose.yaml` file that provisions a PostgreSQL database container.
 
 ### Prerequisites
 
@@ -20,7 +20,7 @@ This project uses [Drizzle Kit](https://orm.drizzle.team/docs/overview) for mana
 ### Environment Configuration
 
 1. **Environment Variables:**  
-   The `apps/api` directory contains a `.env.example` file listing all required environment variables, including database connection settings.
+   The project contains a `.env.example` file listing all required environment variables, including database connection settings.
 
    - Copy `.env.example` to `.env`:
      ```bash
@@ -33,7 +33,7 @@ This project uses [Drizzle Kit](https://orm.drizzle.team/docs/overview) for mana
 
 ### Starting the Database
 
-From the `apps/api` directory, start the PostgreSQL container:
+From the project root directory, start the PostgreSQL container:
 
 ```bash
 docker compose up -d
@@ -47,11 +47,11 @@ docker ps
 
 ### Running Database Migrations
 
-1. Return to the root of the project.
-2. Apply database migrations using [Turborepo](https://turbo.build/):
+1. From the root of the project.
+2. Apply database migrations using the command:
 
    ```bash
-   turbo db:migrate
+   pnpm db:migrate
    ```
 
    This will run all pending migrations using Drizzle Kit.
@@ -61,7 +61,7 @@ docker ps
 After successful migration, start the API service (from the project root):
 
 ```bash
-turbo dev --filter=api
+pnpm dev
 ```
 
 The API should now be running and connected to your local PostgreSQL database.
@@ -73,10 +73,8 @@ To populate your development database with sample data, set the `DATABASE_SEEDIN
 From the project root, execute the following command:
 
 ```bash
-DATABASE_SEEDING=true turbo dev --filter=api
+DATABASE_SEEDING=true pnpm dev
 ```
-
-The `--filter=api` flag is optional but recommended. It ensures that Turborepo only starts the `dev` script for the `api` workspace, as database seeding is typically exclusive to the API service.
 
 ---
 
